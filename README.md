@@ -32,12 +32,15 @@ To-Do Now/ │ ├── index.html # Main HTML file ├── style.css # Styli
 
 ## Screenshots
 1. **Initial Screen**
+ 
    ![{0C9A9F85-EF92-40DD-BE81-8DC1934A7289}](https://github.com/user-attachments/assets/1bc0e68a-0484-4911-869d-ba28de400ea8)
 
 2. **Adding a Task**  
+
    ![{AB595492-20DA-455C-BAC2-1481A571586C}](https://github.com/user-attachments/assets/0194ee92-4035-4608-8b0a-14d869a44adc)
 
 3. **Task List with Actions**  
+
    ![{C9202535-459A-4D53-8D75-FD23C993E46E}](https://github.com/user-attachments/assets/da7a127c-88db-4109-b34f-1f420c2f3989)
 
 ---
